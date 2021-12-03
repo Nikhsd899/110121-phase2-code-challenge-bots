@@ -53,7 +53,7 @@ function BotSpecs({ bot }) {
             <button
               className="ui button fluid"
               onClick={() =>
-                console.log("connect this to a function that shows all bots")
+                console.log("connect this to a function that shows all bots in BotSpecs")
               }
             >
               Go Back
@@ -62,7 +62,7 @@ function BotSpecs({ bot }) {
               className="ui button fluid"
               onClick={() =>
                 console.log(
-                  "connect this to a function that adds this bot to your bot army list"
+                  "connect this to a function that adds this bot to your bot army list in BotSpecs"
                 )
               }
             >
